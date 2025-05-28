@@ -145,3 +145,33 @@ Amelyek:
 - Növeli a tesztek hatékonyságát
 - Csökkenti a tesztek írásának idejét
 - Lehetővé teszi a tesztek futtatását különböző környezetekben
+
+#### ✅ Mik a kihívások és ajánlott eljárások a dinamikusan betöltött webes elemekkel?
+- Az elemek betöltésének ideje változhat
+- Az elemek nem mindig elérhetőek
+- Az elemek tulajdonságai változhatnak
+- A Selenium WebDriver nem mindig képes az elemekre várni
+- A Selenium WebDriver nem mindig képes az elemek tulajdonságait értelmezni
+- A Selenium WebDriver nem mindig képes az elemekre kattintani
+- A Selenium WebDriver nem mindig képes az elemekre rákattintani
+- A Selenium WebDriver nem mindig képes az elemekre feliratkozni
+- A Selenium WebDriver nem mindig képes az elemekre leiratkozni
+(WindSurf AI válasz, kivéve az első 3db)
+
+#### ✅ Mik a mobil tesztautomatizálás kihívásai?
+- készülék és op rendszerhez való igazodás
+- összeszedni mit és hogyan teszteljünk illetve az környezet megteremtése
+- alkalmazás és szoftverfrissítéshhez való igazodás
+
+## Haladó témák
+<img src="https://www.softwaretestinghelp.com/wp-content/qa/uploads/2020/05/DevOps-in-a-Selenium-Testing.png" alt="image" width="320" height="220">
+
+#### ✅ Mi a különbség a CI és CD között?
+A CI a kód folyamatos integrálását, míg a CD a folyamatos szállítást jelenti.
+#### ✅ Írj le egy Continuous Delivery folyamatot!
+A kód automatikus tesztelése és szállítása a fejlesztéstől a termelésig.
+#### ✅ Hasonlítsd össze két népszerű CI rendszert, ezek közül az egyik legyen a Jenkins!
+A Jenkins könnyen konfigurálható és bővíthető, míg a GitLab CI integráltabb és egyszerűbb felületet kínál.
+(Ai válasz)
+#### ✅ Mi a Docker és miért hasznos?
+A docker egy virtualizált környezetet létesít és ott tudjuk futtatni különböző programjainkat
